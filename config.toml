@@ -1,8 +1,8 @@
 baseURL = "https://goofy-mccarthy-78bdda.netlify.com/"
 languageCode = "en-us"
-title = "Edna West"
+title = "Ajaj Rajguru"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Ajaj Rajguru"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Hi, I'm Ajaj :wave:"
+  sub = "I'm a Front-End Developer From Goa."
 
 [taxonomies]
   design = "designs"
@@ -39,26 +39,26 @@ pygmentsCodeFences=true
 [params.sidebar]
   backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "" # - default "/images/placeholder.png"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
+  github = ""
   twitter = "https://twitter.com/"
   linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
+  medium = ""
   codepen = "https://codepen.io/"
   facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  youtube = ""
+  instagram = ""
+  gitlab = ""
+  keybase = ""
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "ajajrajguru95@gmail.com"
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
