@@ -1,6 +1,6 @@
 baseURL = "https://goofy-mccarthy-78bdda.netlify.com/"
 languageCode = "en-us"
-title = "Ajaj Rajguru - Front-End Developer"
+title = "Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio"
 theme = "personal-web"
 copyright="© Ajaj Rajguru"
 googleAnalytics = ""
@@ -12,6 +12,9 @@ pygmentsCodeFences=true
 [params.intro]
   main = "Hi, I'm Ajaj :wave:"
   sub = "I'm a Front-End Developer From Goa."
+
+[params.keywords]
+  tags = "UI, User interface, UX, User Experience, Front-end developer, Front end developer, Front-end, Front end, Designing, websites, CSS, CSS3, HTML, HTML5, jQuery, Javascript, Goa, Layouts, CMS, Static Site, Hugo"
 
 [taxonomies]
   design = "designs"

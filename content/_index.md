@@ -1,7 +1,7 @@
 ---
 title: HOME
-description: Welcome to this sample project
-images: ["/images/sample.jpg"]
+description: UI/UX Designer and Front-end Developer with 5+ years of experience in developing and designing beautiful and stunning websites. Proficiency in building complex layouts with HTML5, CSS3 and cool functionality with Javascript/jQuery. I like to build websites from scratch be it in CMS or static sites.
+images: ["/images/me.jpg"]
 ---
 
 Hey,
