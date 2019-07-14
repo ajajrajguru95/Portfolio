@@ -37,9 +37,10 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/placeholder.png"
+  backgroundImage = '' # header background image - default "" - Portfolio Cover
+  gradientOverlay = '' # default: to right bottom, #000000, #0b0820, #050858, #0b0820, #000000
+  logo = "" # - default "/images/me.jpg"
+  title = "My Face" # - default "Profile Pic"
 [params.assets]
   favicon = ""
   customCSS = ""

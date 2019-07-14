@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
+description: Hey, I'm Ajaj Rajguru
 images: ["/images/sample.jpg"]
 ---
 
