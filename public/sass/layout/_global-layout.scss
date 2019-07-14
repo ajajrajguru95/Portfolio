@@ -1,0 +1,21 @@
+// Global styles for layout
+
+// Removing default html selection color
+html{
+	background-color: transparent;
+}
+
+// Overriting content max-width 
+#content, .breadcrumb{
+	max-width: 50em;
+}
+
+// Reset extra margin for post pictures/figure
+#content{
+	&:not(.portfolio){
+		img{
+			width: 100%;
+			margin: 0;
+		}
+	}
+}
