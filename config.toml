@@ -1,6 +1,6 @@
 baseURL = "https://goofy-mccarthy-78bdda.netlify.com/"
 languageCode = "en-us"
-title = "Ajaj Rajguru"
+title = "Ajaj Rajguru - Front-End Developer"
 theme = "personal-web"
 copyright="© Ajaj Rajguru"
 googleAnalytics = ""
@@ -42,7 +42,7 @@ pygmentsCodeFences=true
   logo = "" # - default "/images/me.jpg"
   title = "My Face" # - default "Profile Pic"
 [params.assets]
-  favicon = ""
+  favicon = "/images/fav.png"
   customCSS = ""
 
 [params.social]
