@@ -21,7 +21,7 @@ Want to have some chat or had some query or got a cool project and wanna talk ab
 		</div>
 		<div class="group">
 			<label for="name">How did you got teleported here? :blush:</label>
-			<select class="theme-input" name="came-from">
+			<select class="theme-input" name="camefrom[]" multiple>
 				<option value="">--Select--</option>
 				<option value="">LinkedIn</option>
 				<option value="">Facebook</option>
