@@ -21,13 +21,13 @@ Want to have some chat or had some query or got a cool project and wanna talk ab
 		</div>
 		<div class="group">
 			<label for="name">How did you got teleported here? :blush:</label>
-			<select class="theme-input" name="camefrom[]" multiple>
+			<select class="theme-input" name="came-from">
 				<option value="">--Select--</option>
-				<option value="">LinkedIn</option>
-				<option value="">Facebook</option>
-				<option value="">Instagram</option>
-				<option value="">Google</option>
-				<option value="">By Recommendation</option>
+				<option value="Linkedin">LinkedIn</option>
+				<option value="Facebook">Facebook</option>
+				<option value="Instagram">Instagram</option>
+				<option value="Google">Google</option>
+				<option value="Recommendated">By Recommendation</option>
 			</select>
 		</div>
 		<div class="group">
