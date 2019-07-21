@@ -61,7 +61,7 @@ pygmentsCodeFences=true
   keybase = ""
 
 [params.contact]
-  email = "ajajrajguru95@gmail.com"
+  email = ""
   text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
@@ -86,6 +86,13 @@ pygmentsCodeFences=true
   name = "Post"
   title = "Blog section"
   url = "/post/"
+  weight = -100
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Say Hi"
+  title = "Contact section"
+  url = "/contact/"
   weight = -100
 
 [sitemap]
