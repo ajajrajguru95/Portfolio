@@ -1,5 +1,12 @@
 footer{
+	padding: 28px 45px;
 	.footer-wrapper{
 		max-width: 50em;
+	}
+	@media (max-width: 767px){
+		.footer-wrapper{
+			flex-direction: column;
+			text-align: center;
+		}
 	}
 }

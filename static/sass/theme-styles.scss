@@ -1,5 +1,8 @@
 // Partial imports
 
+// Site variables
+@import "variables";
+
 // Mixins
 @import "base/mixin";
 
@@ -17,6 +20,9 @@
 
 // Helper classes
 @import "global/helpers";
+
+// Global imports
+@import "global/global-imports";
 
 // Pages
 @import "pages/all";

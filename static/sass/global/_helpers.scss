@@ -36,3 +36,26 @@ img{
 .text-right{
 	text-align: right;
 }
+
+.d-flex{
+	display: flex !important;
+}
+
+.align-items-center{
+	align-items: center !important;
+}
+
+.justify-center{
+	justify-content: center !important;
+}
+
+.justify-between{
+	justify-content: space-between !important;
+}
+
+.flex-center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
