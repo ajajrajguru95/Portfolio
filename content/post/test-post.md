@@ -30,5 +30,5 @@ fs
 d
 
 ```
-Custom Code here <div class="test">sdfsdfs</div>
+Custom Code here
 ```
