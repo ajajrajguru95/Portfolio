@@ -29,6 +29,15 @@ fs
 
 d
 
-```
-Custom Code here
+```TOML
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Edna West"
+theme = "personal-web"
+copyright="© Edna West"
+googleAnalytics = ""
+enableEmoji=true
+enableRobotsTXT=true
+pygmentsUseClasses=true
+pygmentsCodeFences=true
 ```
