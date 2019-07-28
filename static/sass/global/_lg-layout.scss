@@ -1,7 +1,4 @@
-
-
-
-
+// Larger screen layout
 
 @include bp(desktop-lg){
     .lg-container.lg-container{
@@ -9,6 +6,9 @@
         margin: 0 auto;
         padding: 35px 45px;
         max-width: 950px;
+    }
+    #content,.breadcrumb{
+        max-width: inherit;
     }
     header{
         width: 100%;
