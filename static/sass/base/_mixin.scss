@@ -64,7 +64,7 @@
 // Media query mixin
 @mixin bp($query) {
   @if $query == desktop-lg {
-    @media (min-width: 1600px) { @content; }
+    @media (min-width: 1500px) { @content; }
   }
   @else if $query == desktop-md {
     @media (min-width: 1200px) { @content; }

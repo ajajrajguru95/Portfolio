@@ -1,0 +1,52 @@
+
+
+
+
+
+@include bp(desktop-lg){
+    .lg-container.lg-container{
+        width: 50%;
+        margin: 0 auto;
+        padding: 35px 45px;
+        max-width: 950px;
+    }
+    header{
+        width: 100%;
+        position: static;
+        .header-wrapper{
+            flex-direction: column;
+            align-items: flex-start;
+        }
+        .intro{
+            display: flex;
+            justify-content: space-between;
+            padding: 0;
+            position: static;
+            width: 100%;
+        }
+        h2{
+            @include font-rem(30px);
+        }
+        h3{
+            margin-top: 20px;
+        }
+        .menu{
+            display: flex;
+            flex: 1;
+            justify-content: flex-end;
+            p{
+                padding-left: 30px;
+            }
+        }
+        .socials{
+            padding: 20px 0 0 0;
+            position: static;
+        }
+    }
+    footer{
+        position: relative;
+        width: 100%;
+        left: 0;
+        padding: 0;
+    }
+}

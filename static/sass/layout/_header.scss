@@ -1,7 +1,15 @@
 // Header styles
 
 header{
+	.header-wrapper{
+		display: flex;
+    	align-items: center;
+    	height: 100%;
+	}
 	.rounded-logo{
 		object-position: top;
+	}
+	.intro{
+		bottom: inherit;
 	}
 }
