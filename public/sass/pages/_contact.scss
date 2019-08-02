@@ -1,0 +1,15 @@
+.contact-form{
+	padding: 1.5rem;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.18);
+    background-color: #f4f4f4;
+    max-width: 400px;
+    margin: 2rem auto 0 auto;
+	.group{
+		margin-bottom: 20px;
+	}
+	.theme-input{
+		width: 100%;
+	}
+	@include bp(mobile){
+	}
+}

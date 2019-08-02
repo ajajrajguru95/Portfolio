@@ -1,36 +1,64 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>HOME on Ajaj Rajguru</title>
-    <link>https://goofy-mccarthy-78bdda.netlify.com/</link>
-    <description>Recent content in HOME on Ajaj Rajguru</description>
+    <title>HOME on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</title>
+    <link>https://css-ninja.netlify.com/</link>
+    <description>Recent content in HOME on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Ajaj Rajguru</copyright>
-    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jul 2019 06:18:29 +0000</lastBuildDate>
     
-	<atom:link href="https://goofy-mccarthy-78bdda.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://css-ninja.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Blog Post</title>
+      <link>https://css-ninja.netlify.com/post/blog-post/</link>
+      <pubDate>Sun, 28 Jul 2019 06:18:29 +0000</pubDate>
+      
+      <guid>https://css-ninja.netlify.com/post/blog-post/</guid>
+      <description>Lorem ipsum dollar amet sit sa]fsdf asdfsfdsdfsfdf
+ dsdfsf sdfsd
+&amp;lt;div&amp;gt;Tet&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;test&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;test&amp;lt;/div&amp;gt;&amp;lt;div&amp;gt;test&amp;lt;/div&amp;gt;   </description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>https://css-ninja.netlify.com/post/test-post/</link>
+      <pubDate>Sat, 27 Jul 2019 07:20:49 +0000</pubDate>
+      
+      <guid>https://css-ninja.netlify.com/post/test-post/</guid>
+      <description> Testing post by creating new one in CMS
+Heading Title  dsffsdfsdf sdfsdf sfd sfdsd  dsfsdfsdf sfsdfdsfdsfsdf
+sdf
+sdf
+sfd
+sd
+fs
+d
+baseURL = &amp;#34;https://example.com/&amp;#34; languageCode = &amp;#34;en-us&amp;#34; title = &amp;#34;Edna West&amp;#34; theme = &amp;#34;personal-web&amp;#34; copyright=&amp;#34;© Edna West&amp;#34; googleAnalytics = &amp;#34;&amp;#34; enableEmoji=true enableRobotsTXT=true pygmentsUseClasses=true pygmentsCodeFences=true</description>
+    </item>
+    
+    <item>
       <title>Getting started</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/getting-started/</link>
+      <link>https://css-ninja.netlify.com/post/getting-started/</link>
       <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/getting-started/</guid>
+      <guid>https://css-ninja.netlify.com/post/getting-started/</guid>
       <description>&lt;p&gt;Here are some details to help you getting started with this theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Portfolio Definition</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/portfolio-definition/</link>
+      <link>https://css-ninja.netlify.com/post/portfolio-definition/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/portfolio-definition/</guid>
+      <guid>https://css-ninja.netlify.com/post/portfolio-definition/</guid>
       <description>&lt;p&gt;Here are some details about the portfolio settings.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&#34;https://goofy-mccarthy-78bdda.netlify.com/post/images/portfolio-example.png&#34;
+    &lt;img src=&#34;https://css-ninja.netlify.com/post/images/portfolio-example.png&#34;
          alt=&#34;Example of Portfolio page&#34;/&gt; &lt;figcaption&gt;
             &lt;p&gt;Example of Portfolio page&lt;/p&gt;
         &lt;/figcaption&gt;
@@ -39,48 +67,48 @@
     
     <item>
       <title>Sample project</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/portfolio/sample-project-copy/</link>
+      <link>https://css-ninja.netlify.com/portfolio/sample-project-copy/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/portfolio/sample-project-copy/</guid>
+      <guid>https://css-ninja.netlify.com/portfolio/sample-project-copy/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Sample project</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/portfolio/sample-project/</link>
+      <link>https://css-ninja.netlify.com/portfolio/sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/portfolio/sample-project/</guid>
+      <guid>https://css-ninja.netlify.com/portfolio/sample-project/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Archetypes management</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/archetypes/</link>
+      <link>https://css-ninja.netlify.com/post/archetypes/</link>
       <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/archetypes/</guid>
+      <guid>https://css-ninja.netlify.com/post/archetypes/</guid>
       <description>&lt;p&gt;The archetypes are defined in the &lt;code&gt;archetypes&lt;/code&gt; folder, for both post and portfolio.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Shortcodes</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/shortcodes/</link>
+      <link>https://css-ninja.netlify.com/post/shortcodes/</link>
       <pubDate>Mon, 29 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/shortcodes/</guid>
+      <guid>https://css-ninja.netlify.com/post/shortcodes/</guid>
       <description>&lt;p&gt;Introduction of the shortcodes defined in the personal-web theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Config File</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/config-file/</link>
+      <link>https://css-ninja.netlify.com/post/config-file/</link>
       <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/config-file/</guid>
+      <guid>https://css-ninja.netlify.com/post/config-file/</guid>
       <description>&lt;p&gt;Here is the basic config file used for personal-web.&lt;/p&gt;
 
 &lt;p&gt;You can use it as a base for your website.&lt;/p&gt;</description>
@@ -88,22 +116,32 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
     
     <item>
       <title>Open Graph image</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/post/define-specific-og-image/</link>
+      <link>https://css-ninja.netlify.com/post/define-specific-og-image/</link>
       <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/post/define-specific-og-image/</guid>
+      <guid>https://css-ninja.netlify.com/post/define-specific-og-image/</guid>
       <description>Within any page, you can add in the FrontMatter a images array that will be used to define a specific Open Graph image.
+Testing new changes in posts
 For example, see content/_index.md page:</description>
     </item>
     
     <item>
       <title>ABOUT</title>
-      <link>https://goofy-mccarthy-78bdda.netlify.com/about/</link>
+      <link>https://css-ninja.netlify.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://goofy-mccarthy-78bdda.netlify.com/about/</guid>
+      <guid>https://css-ninja.netlify.com/about/</guid>
       <description>This is my about page. 👋
 Lorem ipsum dolor sit amet, 😄 consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? 🌍</description>
+    </item>
+    
+    <item>
+      <title>CONTACT</title>
+      <link>https://css-ninja.netlify.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://css-ninja.netlify.com/contact/</guid>
+      <description>Want to have some chat or had some query or got a cool project and wanna talk about it i&amp;rsquo;m all yours&amp;hellip;.. Don’t fill this out if you&amp;rsquo;re human:   Name  Email  How did you got teleported here? 😊 &amp;ndash;Select&amp;ndash; LinkedIn Facebook Instagram Google By Recommendation   Message</description>
     </item>
     
   </channel>

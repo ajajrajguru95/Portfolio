@@ -1,10 +1,31 @@
 // Partial imports
 
+// Site variables
+@import "variables";
+
+// Mixins
+@import "base/mixin";
+
 // Site wide global layout changes
 @import "layout/global-layout";
+
+// Components
+@import "components/buttons";
 
 // Header styles
 @import 'layout/header';
 
+// Footer styles
+@import 'layout/footer';
+
 // Helper classes
 @import "global/helpers";
+
+// Global imports
+@import "global/global-imports";
+
+// Pages
+@import "pages/all";
+
+// Lg Layout
+@import "global/lg-layout";

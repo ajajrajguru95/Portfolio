@@ -8,3 +8,54 @@ img{
 	max-width: 100%;
 	height: auto;
 }
+
+.mb-0{
+	margin-bottom: 0 !important;
+}
+
+.mt-0{
+	margin-top: 0 !important;
+}
+
+.d-none{
+	display: none;
+}
+
+.d-block{
+	display: block;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.text-left{
+	text-align: left;
+}
+
+.text-right{
+	text-align: right;
+}
+
+.d-flex{
+	display: flex !important;
+}
+
+.align-items-center{
+	align-items: center !important;
+}
+
+.justify-center{
+	justify-content: center !important;
+}
+
+.justify-between{
+	justify-content: space-between !important;
+}
+
+.flex-center{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
