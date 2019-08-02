@@ -6,7 +6,8 @@
 
   {{ partialCached "sidebar/sidebar" .}}
 
-  <div class="content-wrapper lg-container">
+  <div class="content-wrapper">
+  	<div class="lg-container">
     {{ if .Site.Params.breadcrumb }}
       {{ partial "breadcrumb" .}}
     {{ end }}
