@@ -5,7 +5,7 @@ date: "2019-05-02T19:49:05+02:00"
 publishDate: "2019-05-02T19:49:05+02:00"
 ---
 
-When i decided to start with my own porfolio/blog i started looking at other bloggers/developers blog as to how to do it without including much of the non-needed stuff and hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
+When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to do it without including much of the non-needed stuff and hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
 
 [![Hugo netlify](/images/hugo-netlify.png "Hugo Netlify")](/images/hugo-netlify.png)
 
@@ -13,7 +13,7 @@ When i decided to start with my own porfolio/blog i started looking at other blo
 
 I'm a huge fan of [HUGO](https://gohugo.io/) and also was aware of what this static site generator can do so was curious as to what extend can i take HUGO with same functionality and feel as of CMS's provide and turns out it's unbeatable. 
 
-Those who don't know what HUGO is here a nice [read](https://medium.com/backticks-tildes/hugo101-getting-started-with-hugo-and-deploying-to-netlify-9a813fe23b94) which also cover's it's installation.
+Those who don't know what HUGO is here a nice [read](https://medium.com/backticks-tildes/hugo101-getting-started-with-hugo-and-deploying-to-netlify-9a813fe23b94) which also covers it's installation.
 
 The reason i love HUGO over tons of other static site generators is that its fast like blazing fast and the reason is it's built in GO.
 
