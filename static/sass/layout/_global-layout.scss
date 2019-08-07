@@ -14,10 +14,15 @@ html{
 #content{
 	&:not(.portfolio){
 		img{
-			width: 100%;
-			margin: 0;
+			width: auto;
+			margin: 0 auto;
 		}
 	}
+    &.post{
+        img{
+            margin: 30px auto;
+        }
+    }
 }
 
 label{

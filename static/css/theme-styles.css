@@ -5,8 +5,10 @@ html {
   max-width: 50em; }
 
 #content:not(.portfolio) img {
-  width: 100%;
-  margin: 0; }
+  width: auto;
+  margin: 0 auto; }
+#content.post img {
+  margin: 30px auto; }
 
 label {
   display: block;
