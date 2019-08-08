@@ -1,6 +1,9 @@
 ---
-title: Blog
+title: Articles
 description: 'Blogs Section'
 ---
 
-You'll add here a general introduction of your posts.
+**A place where i share cool tips and tricks related to web development also snippets related to CSS,JS**
+
+
+{{< figure src="/images/article.svg" alt="Article" class="article-icon">}}

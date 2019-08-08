@@ -2,7 +2,7 @@
 title: Test Post
 description: Testing Post after creating admin login
 date: 2019-07-27T07:20:49.604Z
-draft: false
+draft: true
 ---
 Testing post by creating new one in CMS
 

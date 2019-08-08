@@ -5,6 +5,13 @@ images: ["/images/sample.jpg"]
 ---
 
 
-This is my about page. :wave:
+Hey,
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+I'm Ajaj Rajguru, a Front-End Developer based in Goa :palm_tree: and a Computer Science graduate nice to meet you :wave:.
+
+I describe myself as developer cum designer who loves coding, open source and web platform. I'm currently working full-time as a Senior Front-end Developer. I have an overall 5+ years experience working in web industry(so yes i have seen and fixed issues for IE-7 :relieved:). 
+
+
+In my spare time I like to solve Rubik cube and a wish to become a speedcuber one day :crown: apart from that i like to research and post articles related to CSS,JS and anything that makes life easier(Yes automation :wink:)
+
+Got a crush on me or want to have a chat let me know [here](/contact).

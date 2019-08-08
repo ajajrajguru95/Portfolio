@@ -221,6 +221,9 @@ img {
   display: -ms-inline-flexbox;
   display: inline-flex; }
 
+.article-icon img {
+  max-width: 150px; }
+
 .contact-form {
   padding: 1.5rem;
   -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, 0.18);

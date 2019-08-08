@@ -11,7 +11,7 @@ When i decided to start with my own portfolio/blog i started looking at other bl
 
 <!--more-->
 
-I'm a huge fan of [HUGO](https://gohugo.io/) and also was aware of what this static site generator can do so was curious as to what extend can i take HUGO with same functionality and feel as of CMS's provide and turns out it's unbeatable. 
+I'm a huge fan of [HUGO](https://gohugo.io/) and also was aware of what this static site generator is capable of so was curious as to what extend can i take HUGO with same functionality and feel as of CMS's provide and turns out it's unbeatable. 
 
 Those who don't know what HUGO is here a nice [read](https://medium.com/backticks-tildes/hugo101-getting-started-with-hugo-and-deploying-to-netlify-9a813fe23b94) which also covers it's installation.
 
