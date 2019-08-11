@@ -24,4 +24,20 @@ header{
 			padding: 35px 25px;
 		}
 	}
+	background-size: 300%;
+	background-position: top;
+	animation: bgShifter 20s infinite alternate;
+}
+
+
+@keyframes bgShifter {
+	0% {
+		background-position: inherit;
+	}
+	50% {
+		background-position: right;
+	}
+	100% {
+		background-position: unset;
+	}
 }
