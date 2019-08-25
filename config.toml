@@ -50,11 +50,11 @@ pygmentsCodeFences=true
 
 [params.social]
   github = ""
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
+  twitter = "https://twitter.com/theajajrajguru"
+  linkedin = "https://in.linkedin.com/in/ajaj-rajguru-106a6086"
   medium = ""
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
+  codepen = "https://codepen.io/ajajrajguru95"
+  facebook = "https://en-gb.facebook.com/ajaj.rajguru.5"
   youtube = ""
   instagram = ""
   gitlab = ""
@@ -73,13 +73,6 @@ pygmentsCodeFences=true
   title = "About section"
   url = "/about/"
   weight = -120
-
-[[menu.main]]
-  identifier = "portfolio"
-  name = "Portfolio"
-  title = "Portfolio"
-  url = "/portfolio/"
-  weight = -110
 
 [[menu.main]]
   identifier = "blog"
