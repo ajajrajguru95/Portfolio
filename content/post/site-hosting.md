@@ -5,19 +5,19 @@ date: "2019-05-02T19:49:05+02:00"
 publishDate: "2019-05-02T19:49:05+02:00"
 ---
 
-When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to do it without including much of the non-needed stuff and hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
+When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to start it without including much of the non-needed stuff and also hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
 
 [![Hugo netlify](/images/hugo-netlify.png "Hugo Netlify")](/images/hugo-netlify.png)
 
 <!--more-->
 
-I'm a huge fan of [HUGO](https://gohugo.io/) and also was aware of what this static site generator is capable of so was curious as to what extend can i take HUGO with same functionality and feel as of CMS's provide and turns out it's unbeatable. 
+I'm a huge fan of [HUGO](https://gohugo.io/) and also was aware of what this static site generator is capable of and so was curious as to what extend can i take HUGO with same functionality and feel as of CMS's provide and turns out it's unbeatable. 
 
 Those who don't know what HUGO is here a nice [read](https://medium.com/backticks-tildes/hugo101-getting-started-with-hugo-and-deploying-to-netlify-9a813fe23b94) which also covers it's installation.
 
 The reason i love HUGO over tons of other static site generators is that its fast like blazing fast and the reason is it's built in GO.
 
-This site is build entirely through HUGO and hosted through awesome [Netlify](https://www.netlify.com/) :metal:. I love netlify for many reasons one of them that it's free and provide enough functionality/options for you to get started in their free plan. Other than that they offer continuous deployment with github so every time you push you repository to your tracking branch on github your website is rebuild and deployed within couple of seconds.
+This site is build entirely through HUGO and hosted through awesome [Netlify](https://www.netlify.com/) :metal:. I love netlify for many reasons one of them that it's free and provide enough functionality/options for you to get started in their free plan. Other than that they offer continuous deployment with github so every time you push changes to your repository which is your tracking branch on github your website is rebuild and deployed within couple of seconds.
 
 
 [![Netlify login](/images/admin-login.png "Netlify login")](/images/admin-login.png)
