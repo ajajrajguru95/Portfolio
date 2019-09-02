@@ -1,0 +1,30 @@
+{
+  "name": "Ajaj",
+  "short_name": "AJ",
+  "icons": [{
+    "src": "/images/appicons/favicon-128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "/images/appicons/favicon-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "/images/appicons/favicon-152.png",
+    "sizes": "152x152",
+    "type": "image/png"
+  }, {
+    "src": "/images/appicons/favicon-144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "/images/appicons/favicon-150.png",
+    "sizes": "150x150",
+    "type": "image/png"
+  }],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation" : "portrait",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
