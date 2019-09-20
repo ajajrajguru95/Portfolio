@@ -5,6 +5,12 @@ html{
 	background-color: transparent;
 }
 
+.content-wrapper{
+    @include bp(mobile){
+        padding: 35px 25px;
+    }
+}
+
 // Overriting content max-width 
 #content, .breadcrumb{
 	max-width: 50em;
@@ -14,10 +20,15 @@ html{
 #content{
 	&:not(.portfolio){
 		img{
-			width: 100%;
-			margin: 0;
+			width: auto;
+			margin: 0 auto;
 		}
 	}
+    &.post{
+        img{
+            margin: 30px auto;
+        }
+    }
 }
 
 label{

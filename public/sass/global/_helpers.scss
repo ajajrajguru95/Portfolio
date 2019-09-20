@@ -41,8 +41,16 @@ img{
 	display: flex !important;
 }
 
+.flex-column{
+	flex-direction: column !important;
+}
+
 .align-items-center{
 	align-items: center !important;
+}
+
+.align-items-end{
+	align-items: flex-end !important; 
 }
 
 .justify-center{

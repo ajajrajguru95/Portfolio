@@ -3,42 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://css-ninja.netlify.com/post/</loc>
-    <lastmod>2019-07-28T06:18:29+00:00</lastmod>
+    <loc>https://css-ninja.netlify.com/post/intersection-observer/</loc>
+    <lastmod>2019-08-09T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://css-ninja.netlify.com/post/blog-post/</loc>
-    <lastmod>2019-07-28T06:18:29+00:00</lastmod>
+    <loc>https://css-ninja.netlify.com/post/</loc>
+    <lastmod>2019-08-09T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://css-ninja.netlify.com/</loc>
+    <lastmod>2019-08-09T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://css-ninja.netlify.com/offline/</loc>
     <lastmod>2019-07-28T06:18:29+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://css-ninja.netlify.com/post/test-post/</loc>
-    <lastmod>2019-07-27T07:20:49+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/getting-started/</loc>
-    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/portfolio-definition/</loc>
+    <loc>https://css-ninja.netlify.com/post/site-hosting/</loc>
     <lastmod>2019-05-02T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -93,34 +86,6 @@
     <loc>https://css-ninja.netlify.com/techs/javascript/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/archetypes/</loc>
-    <lastmod>2019-05-02T19:25:30+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/shortcodes/</loc>
-    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/config-file/</loc>
-    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://css-ninja.netlify.com/post/define-specific-og-image/</loc>
-    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
