@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</title>
-    <link>https://css-ninja.netlify.com/post/</link>
+    <link>https://css-ninja.netlify.app/post/</link>
     <description>Recent content in Articles on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
     <lastBuildDate>Thu, 08 Aug 2019 19:49:05 +0200</lastBuildDate>
     
-	<atom:link href="https://css-ninja.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://css-ninja.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A tale of Intersection Observer.</title>
-      <link>https://css-ninja.netlify.com/post/intersection-observer/</link>
+      <link>https://css-ninja.netlify.app/post/intersection-observer/</link>
       <pubDate>Thu, 08 Aug 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/post/intersection-observer/</guid>
+      <guid>https://css-ninja.netlify.app/post/intersection-observer/</guid>
       <description>&lt;p&gt;What if i tel you that lazy loading for images and entry animation or scroll animations don&amp;rsquo;t require external plugin&amp;rsquo;s or fallback plugins to work and can be done with a simple API, how does that sound? 😌&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API&#34; target=&#34;_blank&#34;&gt;Intersection Observer&lt;/a&gt; API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document&amp;rsquo;s viewport.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34; alt=&#34;Intersection Observer&#34; title=&#34;Intersection Observer&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.app/images/intersection-observer.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.app/images/intersection-observer.png&#34; alt=&#34;Intersection Observer&#34; title=&#34;Intersection Observer&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Develop and Host your site for free in 2019!!!.</title>
-      <link>https://css-ninja.netlify.com/post/site-hosting/</link>
+      <link>https://css-ninja.netlify.app/post/site-hosting/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/post/site-hosting/</guid>
+      <guid>https://css-ninja.netlify.app/post/site-hosting/</guid>
       <description>&lt;p&gt;When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to start it without including much of the non-needed stuff and also hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.com/images/hugo-netlify.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.com/images/hugo-netlify.png&#34; alt=&#34;Hugo netlify&#34; title=&#34;Hugo Netlify&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.app/images/hugo-netlify.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.app/images/hugo-netlify.png&#34; alt=&#34;Hugo netlify&#34; title=&#34;Hugo Netlify&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
   </channel>

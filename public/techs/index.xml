@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Techs on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</title>
-    <link>https://css-ninja.netlify.com/techs/</link>
+    <link>https://css-ninja.netlify.app/techs/</link>
     <description>Recent content in Techs on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
     <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
     
-	<atom:link href="https://css-ninja.netlify.com/techs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://css-ninja.netlify.app/techs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>D3</title>
-      <link>https://css-ninja.netlify.com/techs/d3/</link>
+      <link>https://css-ninja.netlify.app/techs/d3/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/techs/d3/</guid>
+      <guid>https://css-ninja.netlify.app/techs/d3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://css-ninja.netlify.com/techs/javascript/</link>
+      <link>https://css-ninja.netlify.app/techs/javascript/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/techs/javascript/</guid>
+      <guid>https://css-ninja.netlify.app/techs/javascript/</guid>
       <description></description>
     </item>
     

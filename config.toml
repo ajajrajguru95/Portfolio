@@ -1,4 +1,4 @@
-baseURL = "https://css-ninja.netlify.com/"
+baseURL = "https://css-ninja.netlify.app/"
 languageCode = "en-us"
 title = "Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio"
 theme = "personal-web"

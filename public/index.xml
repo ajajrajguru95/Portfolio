@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HOME on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</title>
-    <link>https://css-ninja.netlify.com/</link>
+    <link>https://css-ninja.netlify.app/</link>
     <description>Recent content in HOME on Ajaj Rajguru | Front-End Developer | Goa | Personal Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
     <lastBuildDate>Thu, 08 Aug 2019 19:49:05 +0200</lastBuildDate>
     
-	<atom:link href="https://css-ninja.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://css-ninja.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A tale of Intersection Observer.</title>
-      <link>https://css-ninja.netlify.com/post/intersection-observer/</link>
+      <link>https://css-ninja.netlify.app/post/intersection-observer/</link>
       <pubDate>Thu, 08 Aug 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/post/intersection-observer/</guid>
+      <guid>https://css-ninja.netlify.app/post/intersection-observer/</guid>
       <description>&lt;p&gt;What if i tel you that lazy loading for images and entry animation or scroll animations don&amp;rsquo;t require external plugin&amp;rsquo;s or fallback plugins to work and can be done with a simple API, how does that sound? 😌&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API&#34; target=&#34;_blank&#34;&gt;Intersection Observer&lt;/a&gt; API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document&amp;rsquo;s viewport.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34; alt=&#34;Intersection Observer&#34; title=&#34;Intersection Observer&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.app/images/intersection-observer.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.app/images/intersection-observer.png&#34; alt=&#34;Intersection Observer&#34; title=&#34;Intersection Observer&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Oops, you are offline.</title>
-      <link>https://css-ninja.netlify.com/offline/</link>
+      <link>https://css-ninja.netlify.app/offline/</link>
       <pubDate>Sun, 28 Jul 2019 06:18:29 +0000</pubDate>
       
-      <guid>https://css-ninja.netlify.com/offline/</guid>
+      <guid>https://css-ninja.netlify.app/offline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Develop and Host your site for free in 2019!!!.</title>
-      <link>https://css-ninja.netlify.com/post/site-hosting/</link>
+      <link>https://css-ninja.netlify.app/post/site-hosting/</link>
       <pubDate>Thu, 02 May 2019 19:49:05 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/post/site-hosting/</guid>
+      <guid>https://css-ninja.netlify.app/post/site-hosting/</guid>
       <description>&lt;p&gt;When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to start it without including much of the non-needed stuff and also hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.com/images/hugo-netlify.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.com/images/hugo-netlify.png&#34; alt=&#34;Hugo netlify&#34; title=&#34;Hugo Netlify&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.app/images/hugo-netlify.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.app/images/hugo-netlify.png&#34; alt=&#34;Hugo netlify&#34; title=&#34;Hugo Netlify&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Sample project</title>
-      <link>https://css-ninja.netlify.com/portfolio/sample-project-copy/</link>
+      <link>https://css-ninja.netlify.app/portfolio/sample-project-copy/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/portfolio/sample-project-copy/</guid>
+      <guid>https://css-ninja.netlify.app/portfolio/sample-project-copy/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>Sample project</title>
-      <link>https://css-ninja.netlify.com/portfolio/sample-project/</link>
+      <link>https://css-ninja.netlify.app/portfolio/sample-project/</link>
       <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
       
-      <guid>https://css-ninja.netlify.com/portfolio/sample-project/</guid>
+      <guid>https://css-ninja.netlify.app/portfolio/sample-project/</guid>
       <description>This would be a description of your sample project. You can add any content you&amp;rsquo;d like.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
       <title>ABOUT</title>
-      <link>https://css-ninja.netlify.com/about/</link>
+      <link>https://css-ninja.netlify.app/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://css-ninja.netlify.com/about/</guid>
+      <guid>https://css-ninja.netlify.app/about/</guid>
       <description>Hey,
 I&amp;rsquo;m Ajaj Rajguru, a Front-End Developer based in Goa 🌴 and a Computer Science graduate nice to meet you 👋.
 I describe myself as developer cum designer who loves coding, developing websites and believing in making a web a better place. I&amp;rsquo;m currently working full-time as a Senior Front-end Developer. I have an overall 5+ years experience working in web industry(so yes i have seen and fixed issues for IE-7 😌).</description>
@@ -78,10 +78,10 @@ I describe myself as developer cum designer who loves coding, developing website
     
     <item>
       <title>CONTACT</title>
-      <link>https://css-ninja.netlify.com/contact/</link>
+      <link>https://css-ninja.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://css-ninja.netlify.com/contact/</guid>
+      <guid>https://css-ninja.netlify.app/contact/</guid>
       <description>Want to have some chat or had some query or got a cool project and wanna talk about it i&amp;rsquo;m all yours&amp;hellip;.. Don’t fill this out if you&amp;rsquo;re human:   Name  Email  How did you got teleported here? 😊 &amp;ndash;Select&amp;ndash; LinkedIn Facebook Instagram Google By Recommendation   Message</description>
     </item>
     
