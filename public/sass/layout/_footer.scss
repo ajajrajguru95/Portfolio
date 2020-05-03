@@ -9,4 +9,18 @@ footer{
 			text-align: center;
 		}
 	}
+	.menu{
+		margin-bottom: 15px;
+		p{
+			&:not(:first-child){
+				padding-left: 20px;
+			}
+		}
+	}
+	@include bp(mobile){
+		padding: 28px 25px;
+		.footer-navigation{
+			align-items: center !important;	
+		}
+	}
 }

@@ -44,7 +44,9 @@
             flex: 1;
             justify-content: flex-end;
             p{
-                padding-left: 30px;
+                &:not(:first-child){
+                    padding-left: 30px;
+                }
             }
         }
         .socials{
