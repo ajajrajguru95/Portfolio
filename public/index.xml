@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
-    <lastBuildDate>Fri, 09 Aug 2019 19:49:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2019 19:49:05 +0200</lastBuildDate>
     
 	<atom:link href="https://css-ninja.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,10 +15,12 @@
     <item>
       <title>A tale of Intersection Observer.</title>
       <link>https://css-ninja.netlify.com/post/intersection-observer/</link>
-      <pubDate>Fri, 09 Aug 2019 19:49:05 +0200</pubDate>
+      <pubDate>Thu, 08 Aug 2019 19:49:05 +0200</pubDate>
       
       <guid>https://css-ninja.netlify.com/post/intersection-observer/</guid>
-      <description>&lt;p&gt;When i decided to start with my own portfolio/blog i started looking at other bloggers/developers blog as to how to start it without including much of the non-needed stuff and also hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.&lt;/p&gt;
+      <description>&lt;p&gt;What if i tel you that lazy loading for images and entry animation or scroll animations don&amp;rsquo;t require external plugin&amp;rsquo;s or fallback plugins to work and can be done with a simple API, how does that sound? 😌&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;https://developer.mozilla.org/en-US/docs/Web/API/Intersection_Observer_API&#34; target=&#34;_blank&#34;&gt;Intersection Observer&lt;/a&gt; API provides a way to asynchronously observe changes in the intersection of a target element with an ancestor element or with a top-level document&amp;rsquo;s viewport.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.com/images/intersection-observer.png&#34; alt=&#34;Intersection Observer&#34; title=&#34;Intersection Observer&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
