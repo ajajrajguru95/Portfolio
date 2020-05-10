@@ -1,0 +1,13 @@
+// Typography related stuff
+
+p{
+	text-align: left;
+	letter-spacing: 0.2px;
+	margin-bottom: 30px;
+}
+
+h2{
+	@include bp(mobile){
+		@include font-rem(24px);
+	}
+}

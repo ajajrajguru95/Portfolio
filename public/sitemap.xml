@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://css-ninja.netlify.app/post/intersection-observer/</loc>
-    <lastmod>2019-08-08T19:49:05+02:00</lastmod>
+    <loc>https://css-ninja.netlify.app/post/</loc>
+    <lastmod>2020-02-28T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://css-ninja.netlify.app/post/</loc>
-    <lastmod>2019-08-08T19:49:05+02:00</lastmod>
+    <loc>https://css-ninja.netlify.app/post/getting-to-know-industry/</loc>
+    <lastmod>2020-02-28T09:37:55+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://css-ninja.netlify.app/</loc>
+    <lastmod>2020-02-28T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://css-ninja.netlify.app/post/intersection-observer/</loc>
     <lastmod>2019-08-08T19:49:05+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

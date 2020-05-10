@@ -7,10 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
-    <lastBuildDate>Thu, 08 Aug 2019 19:49:05 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 09:37:55 +0200</lastBuildDate>
     
 	<atom:link href="https://css-ninja.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Getting to know the industry</title>
+      <link>https://css-ninja.netlify.app/post/getting-to-know-industry/</link>
+      <pubDate>Fri, 28 Feb 2020 09:37:55 +0200</pubDate>
+      
+      <guid>https://css-ninja.netlify.app/post/getting-to-know-industry/</guid>
+      <description>&lt;p&gt;Students who have just passed out from college are having tough time understanding how a company/industry function on a day to day basis, how are the processes carried out in an IT or any other general product or service based company. That&amp;rsquo;s when session like &lt;strong&gt;Getting to know the industry&lt;/strong&gt; try to guide those lost soul&amp;rsquo;s into the fundamentals of industry standards.&lt;/p&gt;
+
+&lt;p&gt;I was lucky enough to have this opportunity to conduct similar session for computer science students in SPK(same college where i completed my higher education).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://css-ninja.netlify.app/images/presentation.jpg&#34;&gt;&lt;img src=&#34;https://css-ninja.netlify.app/images/presentation.jpg&#34; alt=&#34;Presentation glimpse&#34; title=&#34;Presentation glimpse&#34; /&gt;&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>A tale of Intersection Observer.</title>
