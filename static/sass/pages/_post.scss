@@ -9,7 +9,7 @@
 }
 
 .post-container{
-	&:not(:first-child){
+	&:not(:first-of-type){
 		margin-top: 50px;
     		padding-top: 20px;
 		border-top: 1px solid $border_color;
