@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Ajaj Rajguru</copyright>
-    <lastBuildDate>Fri, 28 Feb 2020 09:37:55 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2020 09:37:55 +0200</lastBuildDate>
     
 	<atom:link href="https://css-ninja.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Is Manual Testing Dying ?</title>
+      <link>https://css-ninja.netlify.app/post/automation-testing/</link>
+      <pubDate>Sun, 07 Jun 2020 09:37:55 +0200</pubDate>
+      
+      <guid>https://css-ninja.netlify.app/post/automation-testing/</guid>
+      <description>&lt;p&gt;Is manual testing really dying? That&amp;rsquo;s the question that came to my mind when i read an article on medium which goes by &lt;strong&gt;Wonders of Automation Testing&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not an expert in this topic and neither is testing my forte but only because it has automation which automatically becomes the hot topic and that according to me both(manual and automation) are complementary to each other.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Getting to know the industry</title>
