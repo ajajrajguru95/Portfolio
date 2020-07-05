@@ -5,7 +5,7 @@ date: "2019-05-02T19:49:05+02:00"
 publishDate: "2019-05-02T19:49:05+02:00"
 ---
 
-When i decided to create my own portfolio blog i started looking at other bloggers and developers blog as to how to start it without including much of the non-needed stuff and also hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
+When i decided to create my own portfolio blog i started looking at other bloggers and developers blog as to how to start it without including much of the non-needed stuff and also keep it hassle free. I had an idea related to static site generators in past as i had worked on it for couple of projects.
 
 [![Hugo netlify](/images/hugo-netlify.png "Hugo Netlify")](/images/hugo-netlify.png)
 
